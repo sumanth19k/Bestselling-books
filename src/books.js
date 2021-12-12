@@ -36,4 +36,10 @@ export const books = [
     author: "Paulo Coelho ",
     link: "https://www.amazon.in/Alchemist-Paulo-Coelho/dp/8172234988/ref=zg_bs_books_12/262-2017363-3760227?pd_rd_i=8172234988&psc=1",
   },
+  {
+    img: "https://images-eu.ssl-images-amazon.com/images/I/81tEgsxpNZS._AC_UL604_SR604,400_.jpg",
+    title: "As a Man Thinketh",
+    author: "James Allen",
+    link: "https://www.amazon.in/As-Man-Thinketh-James-Allen/dp/9386538172/ref=zg_bs_books_20/262-2017363-3760227?pd_rd_i=9386538172&psc=1",
+  },
 ];
